@@ -1,6 +1,6 @@
 # Project README
 
-## Project Name: [Your Project Name]
+## Project Name: Pokedex Task By BigStep
 
 ### Overview
 
@@ -22,7 +22,6 @@ This project is a ReactJS application built using Vite, a fast and opinionated w
 3. [Folder Structure](#folder-structure)
 4. [Dependencies](#dependencies)
 5. [Scripts](#scripts)
-6. [Contributing](#contributing)
 
 ### Installation
 
@@ -83,14 +82,3 @@ List the main dependencies and their versions. For example:
 - **build:** Build the project for production.
 - **lint:** Run linting checks on the code.
 - **test:** Run tests.
-
-### Contributing
-
-Explain how others can contribute to your project. Include information about:
-
-- How to report bugs
-- How to suggest enhancements
-- Code contribution guidelines
-
-
-Feel free to customize this README to fit the specific details of your project. Make sure to replace placeholders like `[Your Project Name]` and `[repository-url]` with your actual project name and repository URL. Additionally, choose an appropriate license and replace `[LICENSE_NAME]` with the actual license name.
