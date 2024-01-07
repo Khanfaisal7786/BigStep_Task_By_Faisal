@@ -4,7 +4,7 @@
 
 ### Overview
 
-This project is a ReactJS application built using Vite, a fast and opinionated web development build tool. It aims to [provide a brief description of the project and its purpose]. The project leverages the power of React for building dynamic user interfaces, while Vite enhances the development experience with its quick development server and optimized build process.
+This project is a ReactJS application built using Vite, a fast and opinionated web development build tool. It aims to fetch pokemons api and show detail and power of them. The project leverages the power of React for building dynamic user interfaces, while Vite enhances the development experience with its quick development server and optimized build process.
 
 ## How To Access The Pokemon Cards :-
 
